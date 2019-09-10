@@ -1,0 +1,13 @@
+Retrieving logs for app pal-tracker in org pcfassignment / space development as priyendu.kumar@wipro.com...
+
+   2019-09-09T21:06:15.77-0700 [CELL/0] OUT Cell 05da0354-11ff-4cdd-8f72-7e2e1356e7bf stopping instance ce6ce5e1-15ef-47cb-5440-918b
+   2019-09-09T21:06:15.78-0700 [API/7] OUT Updated app with guid d5bbfa41-5032-4d39-8c92-bdd4c3f36401 ({"state"=>"STOPPED"})
+   2019-09-09T21:06:21.27-0700 [APP/PROC/WEB/0] OUT 2019-09-10 04:06:21.269  INFO 7 --- [       Thread-2] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1f2586d6: startup date [Mon Sep 09 11:46:47 UTC 2019]; root of context hierarchy
+   2019-09-09T21:06:21.30-0700 [APP/PROC/WEB/0] OUT 2019-09-10 04:06:21.301  INFO 7 --- [       Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+   2019-09-09T21:06:21.31-0700 [CELL/SSHD/0] OUT Exit status 0
+   2019-09-09T21:06:21.60-0700 [APP/PROC/WEB/0] OUT Exit status 143
+   2019-09-09T21:06:21.62-0700 [CELL/0] OUT Cell 05da0354-11ff-4cdd-8f72-7e2e1356e7bf destroying container for instance ce6ce5e1-15ef-47cb-5440-918b
+   2019-09-09T21:06:21.88-0700 [PROXY/0] OUT Exit status 137
+   2019-09-09T21:06:22.47-0700 [CELL/0] OUT Cell 05da0354-11ff-4cdd-8f72-7e2e1356e7bf successfully destroyed container for instance ce6ce5e1-15ef-47cb-5440-918b
+   2019-09-09T21:24:17.09-0700 [API/3] OUT Updated app with guid d5bbfa41-5032-4d39-8c92-bdd4c3f36401 ({"buildpack"=>"", "disk_quota"=>1024, "environment_json"=>"[PRIVATE DATA HIDDEN]", "health_check_http_endpoint"=>"", "health_check_type"=>"port", "instances"=>1, "memory"=>1024, "name"=>"pal-tracker", "space_guid"=>"03309924-f1b0-4e72-bb3a-539d9fb9943f"})
+   2019-09-09T21:24:20.27-0700 [API/5] OUT Uploading bits for app with guid d5bbfa41-5032-4d39-8c92-bdd4c3f36401
